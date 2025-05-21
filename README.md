@@ -28,7 +28,4 @@ Hi 👋, I'm 80z<br><br>📚 I'm currently learning Information Technology at HC
 ### ✍️ Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Visitors count
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
