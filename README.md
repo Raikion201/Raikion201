@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Trieu and I'm a Software Engineer</h2>
+
 # 💫 About Me:
 Hi 👋, I'm 80z<br><br>📚 I'm currently learning Information Technology at HCMC University of Technology and Education<br><br>🔭 I’m a passionate Developer with a strong focus on Backend Development. My tech stacks is : Java Spring Boot, ReactJS<br>
 
