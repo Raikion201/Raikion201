@@ -23,7 +23,7 @@ Hi 👋, I'm 80z<br><br>📚 I'm currently learning Information Technology at HC
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Raikion201&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
