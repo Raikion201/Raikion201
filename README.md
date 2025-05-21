@@ -26,7 +26,7 @@ Hi 👋, I'm 80z<br><br>📚 I'm currently learning Information Technology at HC
 ### ✍️ Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Raikion201&icon=0&color=0)](https://visitcount.itsvg.in)
+### Visitors count
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Raikion201&label=Profile%20views&color=ce9927&style=flat" alt="Raikion201" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
