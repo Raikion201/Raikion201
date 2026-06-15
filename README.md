@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<b>Hi 👋, I'm 80z<br>🔭 I’m a passionate Developer with a strong focus on Backend Development. My tech stacks is : Java Spring Boot, ReactJS<br></b>
+<b>Hi 👋, I'm 80z<br>🔭 I’m a passionate Developer with a strong focus on Backend Development. My main tech stacks is : Java Spring Boot, ReactJS (Also NodeJS) <br></b>
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=Raikion201&label=Profile%20views&color=ce9927&style=flat" alt="Raikion201" /> </p>
